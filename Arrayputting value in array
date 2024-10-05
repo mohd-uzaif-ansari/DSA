@@ -1,9 +1,0 @@
-// ~mohd-uzaif-ansari
-#include <iostream>
-using namespace std;
-int main()
-{
-    // i have give the marks
-    int marks[5] = {99, 65, 56, 77, 95};
-    return 0;
-}
