@@ -1,0 +1,15 @@
+// ~nohd-uzaif-ansari
+#include <iostream>
+using namespace std;
+int main()
+{
+    // i have give the marks
+    int marks[5] = {99, 65, 56, 77, 95};
+        int size=5;
+        for(int i = 0; i<size; i++){
+                cout<<marks[i] <<endl;
+        }
+    // cout << sizeof(marks) << endl;
+    // cout << sizeof(marks) / sizeof(int) <<endl;
+    return 0;
+} 
